@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Test_Auto
+namespace test_automation
 {
     static class Program
     {
